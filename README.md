@@ -1,26 +1,24 @@
 # Projet-2-OC-MagicGithub
 
+---
 
-Ce dépôt contient une mini-application pour le P2 du parcours Android d'openclassrooms.
+This repository contains a mini-application for the P2 of the Android openclassrooms route.
 
 ## Introduction
 
-MagicGithub est une mini application concu pour pouvoir réaliser des test d'interface et unitaires
+---
 
+MagicGithub is a mini application designed to be able to perform interface and unit tests
 
+## Configure the project in Android Studio
 
+---
 
-## Configurer le projet dans Android Studio
-======================================
+1. Download the project code, preferably with git clone.
+2. Open Android Studio and click on "Check out project from Version Control" and click on Git.
+3. Paste the url of the git repository in the "URL" field.
+4. If necessary, modify the repository installation folder in the "Directory" field.
+5. Synchronize the project with Gradle if necessary by clicking on the elephant icon.
+6. Compile the project by clicking on the hammer icon.
+7. If necessary, select an android device and launch the project by clicking on the green arrow icon.
 
-### 1. Téléchargez le code du projet, de préférence avec git clone.
-
-
- 2. Ouvrer Android Studio et cliquer sur "Check out project from Version Control" et cliquer sur Git.
- 3. Coller l'url du dépôt git dans le champ "URL".
- 4. Si besoin, modifier le dossier d'installation du dépôt dans le champ "Directory".
-
-
-### 5. Synchroniser le projet avec Gradle si besoin en cliquant sur l'icône éléphant.
-### 6. Compiler le projet en cliquant sur l'icône marteau.
-### 7. Si besoin, séléctionner un appareil android et lancer le projet en cliquant sur l'icône flêche verte.
